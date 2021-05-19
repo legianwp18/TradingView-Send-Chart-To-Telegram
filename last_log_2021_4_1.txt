@@ -1,0 +1,157 @@
+Microsoft Windows [Version 10.0.17763.316]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\rahmat>cd SignalBot
+
+C:\Users\rahmat\SignalBot>python gicbot6.py
+b'[DEBUG] Application Start...'
+
+DevTools listening on ws://127.0.0.1:65149/devtools/browser/5af665e7-95eb-4f91-8561-3dcb81a82a87
+[9232:17000:0401/002741.295:ERROR:device_event_log_impl.cc(214)] [00:27:41.295] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+b'[DEBUG]  : Bot Running!'
+b'[DEBUG]  : GICTrade [-1001299199615]: /gicsignal xauusd 1D'
+b'[DEBUG]  : Fajar [974818590]: Registered User'
+b'[DEBUG]  : 974818590 | No Alert (/gicsignal xauusd 1D)'
+b'[DEBUG]  : 974818590 | Send Chart Success (/gicsignal xauusd 1D)'
+b'[DEBUG]  : Forum Saham [-1001104660145]: Ijin kang Admin.\xf0\x9f\x98\x8a\xf0\x9f\x99\x8f\nSudah Cross juga di channel kita.\n\nKita Dari..... SwingProject\n\nPengawalan Swing dan Ikutin Intruksi Swing\n\nDapatkan Analisa Saham Swing, Yang tidak Punya Waktu Fast Trade, mungkin kami jadi Solusi pemilihan StockPick dan Edukasi \n\n\nAnalisa Saham Swing Trade\n\n- Fibonacci\n- Chart Pattern\n- Support Resisten Candle\n- SuperTrend\n- Statistik Price\n- Regresi Channel Trendline\n\nBe Smart Trader &  Confident Trader\n\nhttps://t.me/SwingProject'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal gbpaud 240'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal gbpaud 60'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : 491465773 | Waiting other command (/gicsignal gbpaud 60) '
+b'[DEBUG]  : 491465773 | No Alert (/gicsignal gbpaud 240)'
+b'[DEBUG]  : 491465773 | Send Chart Success (/gicsignal gbpaud 240)'
+b'[DEBUG]  : 491465773 | Alert Accepted (/gicsignal gbpaud 60)'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal gbpaud 60'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : 491465773 | Waiting other command (/gicsignal gbpaud 60) '
+b'[DEBUG]  : 491465773 | Send Chart Success (/gicsignal gbpaud 60)'
+b'[DEBUG]  : 491465773 | Alert Accepted (/gicsignal gbpaud 60)'
+b'[DEBUG]  : 491465773 | Send Chart Success (/gicsignal gbpaud 60)'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal eurusd 60'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : 491465773 | No Alert (/gicsignal eurusd 60)'
+b'[DEBUG]  : 491465773 | Send Chart Success (/gicsignal eurusd 60)'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal euraud 60'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal euraud 240'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : 491465773 | Waiting other command (/gicsignal euraud 240) '
+b'[DEBUG]  : 491465773 | No Alert (/gicsignal euraud 60)'
+b'[DEBUG]  : 491465773 | Send Chart Success (/gicsignal euraud 60)'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal eurcad 60'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : 491465773 | Waiting other command (/gicsignal eurcad 60) '
+b'[DEBUG]  : 491465773 | Alert Accepted (/gicsignal euraud 240)'
+b'[ERROR]  : -1001138462887 | Alert Text: {Alert text : \nMessage: unexpected alert open: {Alert text : }\n  (Session info: chrome=89.0.4389.90)\n'
+b'[DEBUG]  : 491465773 | No Alert (/gicsignal eurcad 60)'
+b'[ERROR]  : -1001138462887 | Message: element click intercepted: Element <div id="header-toolbar-symbol-search" data-role="button" class="button-2Vpz_LXc button-1n0tF4SR apply-common-tooltip isInteractive-2Vpz_LXc">...</div> is not clickable at point (106, 19). Other element would receive the click: <div class="container-2qEpRlNG">...</div>\n  (Session info: chrome=89.0.4389.90)\n'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal eurcad 60'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : 491465773 | No Alert (/gicsignal eurcad 60)'
+b'[DEBUG]  : 491465773 | Send Chart Success (/gicsignal eurcad 60)'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal eurusd 60'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : 491465773 | Alert Accepted (/gicsignal eurusd 60)'
+b'[DEBUG]  : 491465773 | Send Chart Success (/gicsignal eurusd 60)'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal gbpusd 60'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : 491465773 | Alert Accepted (/gicsignal gbpusd 60)'
+b'[DEBUG]  : 491465773 | Send Chart Success (/gicsignal gbpusd 60)'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal eurgbp 60'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : 491465773 | Alert Accepted (/gicsignal eurgbp 60)'
+b'[DEBUG]  : 491465773 | Send Chart Success (/gicsignal eurgbp 60)'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : Elliott Wave Indonesia [-1001138462887]: /gicsignal gbpaud 60'
+b'[DEBUG]  : MH [491465773]: Registered User'
+b'[DEBUG]  : 491465773 | Alert Accepted (/gicsignal gbpaud 60)'
+b'[DEBUG]  : 491465773 | Send Chart Success (/gicsignal gbpaud 60)'
+b'[DEBUG]  : Forum Saham [-1001104660145]: Semua perusahaan Tbk. mau tutup buku tahun 2020 dengan kinerja cemerlang.\nRitel besar, bandar, dan asing akan melakukan aksi borong saham untuk mendongkrak IHSG, sehingga diprediksi saham-saham akan rally hingga akhir tahun sebelum penutupan BEI yang hanya tinggal beberapa hari saja\nIHSG dihitung berdasarkan saham yang  terdaftar di BEI\nTerdiri dari sektor :\nBasic Materials       -->  83\nCapital Goods         -->117\nConglomerates       -->     1\nConsumer Cyclical -->  40\nConsumer/Non Cyclical-->75\nEnergy                       -->  46\nFinancial                   -->103\nHealthcare               -->   23\nServices                   --> 137\nTechnology             -->   20\nTransportation       -->   53\nUtilities                    -->      9\n\n\nIndustry :\nIndustri advertising -->    4\nAir courier                 -->    3\nAirline                        -->    3\nApparel/Accessories -->13\nAppliance & Tool     -->    1\nAuto & Truck Manufacturers         -->    3\nAuto & Truck Parts  -->    4\nBeverages ( Alcoholic ) --> 2\nBeverages ( Nonalcoholic )  --> 2\nBiotechnology & Drugs  --> 11\nBroadcasting & Cable TV --> 10\nBusiness Services  -->  4\nChemical Manufacturing --> 18\nChemicals - Plastics & Rubber --> 3\nCoal  --> 32\nCommunications Equipment  --> 3\nCommunications Services --> 13\nComputer Hardware --> 2\nComputer Peripherals -->1\nComputer Services --> 4\nConglomerates  --> 1\nConstr. & Agric. Machinery -->3\nConstr. - Supplies & Fixtures --> 16\nConstruction & Raw Materials -->11\nConstruction Services -->83\nConsumer Financial Services -->17\nContainers & Packaging -->14\nCrops --> 12\nElectric Utilities -->7\nElectronic Instr. & Controls -->2\nFabricated Plastic & Rubber --> 5\nFish / Livestock --> 5\nFood Processing -->41\nFootwear --> 2\nForestry & Wood Products --> 1\nFurnitures & Fixture --> 4\nGold & Silver -->4\nHealthcare Facilities -->8\nHotels & Motels --> 24\nInsurance ( Accident & Health ) --> 3\nInsurance ( Life ) --> 7\nInsurance ( Prop. & Casualty ) --> 12\nInvestment Services -->18\nIron & Steel --> 8\nMajor Drugs --> 3\nMedical Equipment & Supplies-->1\nMetal Mining-->10\nMisc.Capital Goods -->4\nMisc.Fabricated Products-->14\nMisc.Financial Services-->1\nMisc.Transportation-->22\nMoney Center Banks --> 1\nMotion Pictures --> 3\nNatural Gas Utilities -->2\nOffice Equipment --> 1\nOil & Gas - Integrated -->1\nOil & Gas Operations -->5\nOil Well Services & Equipment --> 8\nPaper & Paper Products -->6\nPersonal & Household Prods-->8\nPersonal Services -->3\nPrinting & Publishing -->3\nPrinting Services -->1\nReal Estate Operations -->18\nRecreational Activities -->3\nRecreational Products -->2\nRegional Banks -->42\nRental & Leasing -->14\nRestaurant -->7\nRetail ( Apparel ) -->2\nRetail ( Departement & Discount ) -->4\nRetail ( Drugs )-->1\nRetail ( Grocery ) --> 7\nRetail ( Home Improvement ) -->2\nRetail ( Specialty ) -->10\nRetail ( Technology ) -->2\nSchools-->1\nS&Ls/Savings Banks-->2\nSoftware & Programming-->7\nTextile - Non Apparel-->8\nTires-->3\nTobacco-->5\nTrucking-->6\nWaste Management Services -->1\nWater Transportation-->19'
+Traceback (most recent call last):
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\urllib3\connectionpool.py", line 597, in urlopen
+    httplib_response = self._make_request(conn, method, url,
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\urllib3\connectionpool.py", line 384, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\urllib3\connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Program Files\Python39\lib\http\client.py", line 1347, in getresponse
+    response.begin()
+  File "C:\Program Files\Python39\lib\http\client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "C:\Program Files\Python39\lib\http\client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Program Files\Python39\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Program Files\Python39\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Program Files\Python39\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\urllib3\connectionpool.py", line 637, in urlopen
+    retries = retries.increment(method, url, error=e, _pool=self,
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\urllib3\util\retry.py", line 368, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\urllib3\connectionpool.py", line 597, in urlopen
+    httplib_response = self._make_request(conn, method, url,
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\urllib3\connectionpool.py", line 384, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\urllib3\connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Program Files\Python39\lib\http\client.py", line 1347, in getresponse
+    response.begin()
+  File "C:\Program Files\Python39\lib\http\client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "C:\Program Files\Python39\lib\http\client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Program Files\Python39\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Program Files\Python39\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Program Files\Python39\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rahmat\SignalBot\gicbot6.py", line 1594, in <module>
+    bot.polling(none_stop=True)
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\telebot\__init__.py", line 485, in polling
+    self.__threaded_polling(none_stop, interval, timeout, long_polling_timeout)
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\telebot\__init__.py", line 544, in __threaded_polling
+    raise e
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\telebot\__init__.py", line 506, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\telebot\util.py", line 87, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\telebot\util.py", line 69, in run
+    task(*args, **kwargs)
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\telebot\__init__.py", line 322, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout, long_polling_timeout = long_polling_timeout)
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\telebot\__init__.py", line 292, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates, long_polling_timeout)
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\telebot\apihelper.py", line 281, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\telebot\apihelper.py", line 126, in _make_request
+    result = _get_req_session().request(
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\requests\sessions.py", line 524, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\requests\sessions.py", line 637, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\rahmat\AppData\Roaming\Python\Python39\site-packages\requests\adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+C:\Users\rahmat\SignalBot>
